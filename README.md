@@ -18,9 +18,10 @@ To obtain an entry-level iOS Developer position within the company that gives an
 # Technical Skills
 * Language: Swift (1 year)
 * IDE: XCode
-* Frameworks/Technologies: UIKit, Auto Layout, Foundation, MapKit, Core Location, Core Animation, GCD, Networking, REST API, Design Patterns, GIT
+* Frameworks/Technologies: UIKit, Auto Layout, Foundation, MapKit, Core Location, Core Animation, GCD, Networking, REST API, GIT
 * Persistence: CoreData, UserDefaults, Firebase, MS SQL
-* Architecture: MVC, MVVM, Clean Swift
+* Architectural Patterns: MVC, MVVM
+* Design Patterns: Delegation, Observer, Singleton, etc
 * Dependency Managers: CocoaPods, Carthage
 * Teamwork: Agile, Jira, Confluence
 # Work Experience
